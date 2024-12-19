@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+fastapi_azure_auth
+typing
+pydantic
+pydantic_settings
+httpx
+mysql-connector-python
